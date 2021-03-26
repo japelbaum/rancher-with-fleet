@@ -1,7 +1,7 @@
 defaultNamespace: cattle-system
 helm:
   repo: https://releases.rancher.com/server-charts/
-  chart: rancher-latest
-  releaseName: rancher
+  chart: rancher
+  releaseName: latest
   values:
     hostname: tenant2.rancher.helpmetothecloud.com
