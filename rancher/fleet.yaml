@@ -1,6 +1,6 @@
 defaultNamespace: cattle-system
 helm:
-  repo: https://releases.rancher.com/server-charts/
+  repo: https://releases.rancher.com/server-charts/latest
   chart: rancher
   releaseName: rancher
   version: 2.5.7
